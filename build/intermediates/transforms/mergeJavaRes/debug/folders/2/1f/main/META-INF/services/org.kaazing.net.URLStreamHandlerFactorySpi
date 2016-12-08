@@ -1,0 +1,3 @@
+org.kaazing.net.ws.impl.url.WsURLStreamHandlerFactorySpiImpl
+org.kaazing.net.ws.impl.url.WssURLStreamHandlerFactorySpiImpl
+
