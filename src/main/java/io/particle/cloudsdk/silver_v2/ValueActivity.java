@@ -13,7 +13,12 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.TextView;
 
+import com.google.common.base.Function;
+
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 
 import io.particle.android.sdk.cloud.ParticleCloud;
 import io.particle.android.sdk.cloud.ParticleCloudException;
@@ -76,7 +81,73 @@ public class ValueActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 //override and do your own update
-                mUIUpdater.initializer.run();
+                Async.executeAsync(ParticleCloud.get(ValueActivity.this), new Async.ApiWork<ParticleCloud, Object>() {
+                    @Override
+                    public Object callApi(ParticleCloud ParticleCloud) throws ParticleCloudException, IOException {
+                        ParticleDevice device = ParticleCloud.getDevice(getIntent().getStringExtra(ARG_DEVICEID));
+                        Object variable;
+                        List<String> ledCommand = new ArrayList<String>();
+                        ledCommand.add("on");
+                        // get variables this way
+                        try {
+                            device.callFunction("led", ledCommand);
+                        }
+                        catch(ParticleDevice.FunctionDoesNotExistException e){
+
+                        }
+                        // is Object i that is returned to onSuccess.
+                        // to return multiple variables, either return a list, or initialize variables in the ValueActivity class and have the callApi method
+                        // set the values for those variables
+                        return -1;
+                    }
+
+                    @Override
+                    public void onSuccess(Object i) { // this goes on the main thread
+                        tv.setText("Switching");
+                    }
+
+                    @Override
+                    public void onFailure(ParticleCloudException e) {
+                        e.printStackTrace();
+                    }
+                });
+            }
+        });
+
+        findViewById(R.id.off_button).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                //override and do your own update
+                Async.executeAsync(ParticleCloud.get(ValueActivity.this), new Async.ApiWork<ParticleCloud, Object>() {
+                    @Override
+                    public Object callApi(ParticleCloud ParticleCloud) throws ParticleCloudException, IOException {
+                        ParticleDevice device = ParticleCloud.getDevice(getIntent().getStringExtra(ARG_DEVICEID));
+                        Object variable;
+                        List<String> ledCommand = new ArrayList<String>();
+                        ledCommand.add("off");
+                        // get variables this way
+                        try {
+                            device.callFunction("led", ledCommand);
+                        }
+                        catch(ParticleDevice.FunctionDoesNotExistException e){
+
+                        }
+                            // is Object i that is returned to onSuccess.
+                        // to return multiple variables, either return a list, or initialize variables in the ValueActivity class and have the callApi method
+                        // set the values for those variables
+                        return -1;
+                    }
+
+                    @Override
+                    public void onSuccess(Object i) { // this goes on the main thread
+                        tv.setText("Switching");
+                    }
+
+                    @Override
+                    public void onFailure(ParticleCloudException e) {
+                        e.printStackTrace();
+                    }
+                });
             }
         });
 

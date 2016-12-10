@@ -16,11 +16,21 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Refresh"
+        android:text="On"
         android:id="@+id/refresh_button"
         android:layout_below="@id/value"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="24dp"
         />
+
+    <Button
+        android:text="Off"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/refresh_button"
+        android:layout_alignLeft="@+id/refresh_button"
+        android:layout_alignStart="@+id/refresh_button"
+        android:layout_marginTop="24dp"
+        android:id="@+id/off_button" />
 
 </RelativeLayout>
