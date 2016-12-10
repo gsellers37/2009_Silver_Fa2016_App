@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="D:\Android\AndroidStudioProjects\Silver_v3\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="D:\Android\AndroidStudioProjects\Silver_v3\src\debug\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Grant\Documents\GitHub\2009_Silver_App\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Users\Grant\Documents\GitHub\2009_Silver_App\src\debug\jniLibs"/></dataSet></merger>

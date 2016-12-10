@@ -5,46 +5,32 @@
     density="xxxhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="678474615347687"
-    token="-4690149711968202997"
+    timestamp="680197839274901"
+    token="-4243673636002646778"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="183" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="8" />
+        duration="0" />
     <task
         name="verifier"
         duration="0" />
 
-    <artifact
-        location="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-        type="RESOURCES" />
-    <artifact
-        location="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
-        type="DEX" />
-
     <build
-        timestamp="675645021737519"
+        timestamp="680074261455235"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="D:\Android\AndroidStudioProjects\Silver_v3\build\outputs\apk\Silver_v3-debug.apk"
+            location="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\outputs\apk\2009_Silver_App-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="678474615347687"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-            type="RESOURCES" />
-        <artifact
-            location="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
-            type="DEX" />
-    </build>
+        timestamp="680197839274901"
+        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>
