@@ -131,7 +131,13 @@ public class LoginActivity extends AppCompatActivity {
                                             }
                                         });
 
-                                return -1;
+                                Object value;
+                                try{
+                                    value = mDevice.getVariable("testvar");
+                                } catch (ParticleDevice.VariableDoesNotExistException e) {
+                                    value = 0;
+                                }
+                                return value;
                             }
 
                             @Override
@@ -139,7 +145,7 @@ public class LoginActivity extends AppCompatActivity {
                                 //make a screen notification letting you know you are logged in
                                 Toaster.l(LoginActivity.this, "Logged in");
                                 //Go to value activity
-                                Intent intent = ValueActivity.buildIntent(LoginActivity.this, "Waiting on data", mDevice.getID());
+                                Intent intent = ValueActivity.buildIntent(LoginActivity.this, value.toString(), mDevice.getID());
                                 startActivity(intent);
                             }
 

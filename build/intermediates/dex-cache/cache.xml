@@ -8,7 +8,25 @@
         optimize="true"
         revision="25.0.1"
         sha1="cce0823396aa693798f8882e64213b1772032b09">
-        <dex dex="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\transforms\dex\debug\folders\1000\10\guava-18.0_b9919f0b8ba8c1e7667082b5461b5ab7221638fa\classes.dex" />
+        <dex dex="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\transforms\dex\debug\folders\1000\10\guava-18.0_b9919f0b8ba8c1e7667082b5461b5ab7221638fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_74a07733378475a41bcd7b8823d780b849c953da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_add0645730123b200eec2b4f5bbe4826475a8d6d\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -26,16 +44,43 @@
         optimize="true"
         revision="25.0.1"
         sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
-        <dex dex="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.4_9d92033d02cee24146c1f0a99eb100eb68203061\classes.dex" />
+        <dex dex="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.4_9d92033d02cee24146c1f0a99eb100eb68203061\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\exploded-aar\net.danlew\android.joda\2.9.0\jars\classes.jar"
+        jar="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\exploded-aar\net.danlew\android.joda\2.9.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="dc6c5f4bb34315c98476469344d481c8e3ca90ad">
-        <dex dex="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\transforms\dex\debug\folders\1000\10\net.danlew-android.joda-2.9.0_f2f00e92a18315784adbe566ac7d0baa8ea90dc5\classes.dex" />
+        <dex dex="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\transforms\dex\debug\folders\1000\10\net.danlew-android.joda-2.9.0_42117f992b6bb56dae06ea3074b600ab0647574e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_facfda8109ae13d27f6c83c268f00d2e5babe701\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grant\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.9.0\a681c044244d9fc375198588297a39ba78028423\retrofit-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-1.9.0_18d57ea6084a981f0da18a1c7ee8411918fe9472\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grant\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.5.0_995028552081fefcbd8b991a538fa15527a38c94\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -44,7 +89,7 @@
         optimize="true"
         revision="25.0.1"
         sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
-        <dex dex="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_5e4853abd617bb71774eb710ac0cb2af2fcf8c53\classes.dex" />
+        <dex dex="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_5e4853abd617bb71774eb710ac0cb2af2fcf8c53\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -53,7 +98,7 @@
         optimize="true"
         revision="25.0.1"
         sha1="90a3822c38ec8c996e84c16a3477ef632cbc87a3">
-        <dex dex="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\transforms\dex\debug\folders\1000\10\commons-lang3-3.3.2_fdf91728e3ba330a26e3a471939e8d3246ed2c53\classes.dex" />
+        <dex dex="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\transforms\dex\debug\folders\1000\10\commons-lang3-3.3.2_fdf91728e3ba330a26e3a471939e8d3246ed2c53\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -71,25 +116,25 @@
         optimize="true"
         revision="25.0.1"
         sha1="db8dd9d75280b1d1d9587ed0d39b4108d0e655e9">
-        <dex dex="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\transforms\dex\debug\folders\1000\10\joda-time-2.9-no-tzdb_077ac51829928f1f59232ef0278015e2b0b59fed\classes.dex" />
+        <dex dex="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\transforms\dex\debug\folders\1000\10\joda-time-2.9-no-tzdb_077ac51829928f1f59232ef0278015e2b0b59fed\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jar="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_069ce96c4d8a4595709a31b1768d725f7a8c4d7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
-        <dex dex="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_10fce4ecf79e8551fcd41261d3305018de8b8614\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
-        <dex dex="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_c46256ac7d35057b3ddb0f0a4f11a83a4d02e0c8\classes.dex" />
+        <dex dex="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_13a35fc896a86a9865ffc713faca9b328d33d969\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -102,11 +147,20 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_7185db2631ae565ae738ab1acdd9c312ade09192\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="778e03cdf2f30fc0fe09f87c8bc958c5a815628b">
+        sha1="8273b4590e2e8a457422b15cddfbe7d16920d8f0">
         <dex dex="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_112a0b4b5f6cbff9279d8008f40bcc15e22227c5\classes.dex" />
     </item>
     <item
@@ -129,6 +183,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\Grant\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.1\f7be08ec23c21485b9b5a1cf1654c2ec8c58168d\jsr305-3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7be08ec23c21485b9b5a1cf1654c2ec8c58168d">
+        <dex dex="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-3.0.1_5780fc607ceee50624ab32b5e0945264f58452d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -143,232 +206,7 @@
         optimize="true"
         revision="25.0.1"
         sha1="98476622f10715998eacf9240d6b479f12c66143">
-        <dex dex="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_2c9ea389432adaa5a80adbd14fadadb2a0663593\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
-        <dex dex="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_a5c9ba16b3fc717b8c319a8ad294a98e3e4e3b4f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
-        <dex dex="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_176786193300ca3ee082900ed9bd55db704b73ce\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
-        <dex dex="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_a4b3857241b0b85950040dbeba272823215a88ba\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
-        <dex dex="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_74a07733378475a41bcd7b8823d780b849c953da\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
-        <dex dex="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_add0645730123b200eec2b4f5bbe4826475a8d6d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
-        <dex dex="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_b6e09106549992e189a9be8450f38451a277f89f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\exploded-aar\net.danlew\android.joda\2.9.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="dc6c5f4bb34315c98476469344d481c8e3ca90ad">
-        <dex dex="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\transforms\dex\debug\folders\1000\10\net.danlew-android.joda-2.9.0_42117f992b6bb56dae06ea3074b600ab0647574e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
-        <dex dex="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_53d4480fcb53c4c84ededfe8fc55d08ba8772a1b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
-        <dex dex="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_facfda8109ae13d27f6c83c268f00d2e5babe701\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
-        <dex dex="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_69429038532dc9e0df13b45e387fe0515ab7e79f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Grant\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.9.0\a681c044244d9fc375198588297a39ba78028423\retrofit-1.9.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="a681c044244d9fc375198588297a39ba78028423">
-        <dex dex="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-1.9.0_18d57ea6084a981f0da18a1c7ee8411918fe9472\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Grant\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
-        <dex dex="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.5.0_995028552081fefcbd8b991a538fa15527a38c94\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
-        <dex dex="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_f7787bedf8697d9ae7026bb240d85afb38661943\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
-        <dex dex="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_9dd2112833d21625ec305b599ac59f3b03541725\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
-        <dex dex="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_069ce96c4d8a4595709a31b1768d725f7a8c4d7d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
-        <dex dex="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_13a35fc896a86a9865ffc713faca9b328d33d969\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
-        <dex dex="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_ab2287b6e681bf645ffb5fb1b76b3e7294ad5503\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
-        <dex dex="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_7185db2631ae565ae738ab1acdd9c312ade09192\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\exploded-aar\io.particle\cloudsdk\0.3.3\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="3447ae8d2ddbc84cf1efaa623ad7541774c924af">
-        <dex dex="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\transforms\dex\debug\folders\1000\10\io.particle-cloudsdk-0.3.3_9aa4ecd22c3d57fcb168d7be54d66a8d08ca484a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
-        <dex dex="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_3f59ddc35c4acd4711620e1b0bc729ce7d2d1507\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Grant\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.1\f7be08ec23c21485b9b5a1cf1654c2ec8c58168d\jsr305-3.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="f7be08ec23c21485b9b5a1cf1654c2ec8c58168d">
-        <dex dex="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-3.0.1_5780fc607ceee50624ab32b5e0945264f58452d7\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
-        <dex dex="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_055e02c69a78218923eee465031251579286d71a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
-        <dex dex="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_e4915f1b949304f9d5732e63c96db364d1fd82d3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="5461578bf1da7bdae66b42d6b26d8827bcac13d3">
-        <dex dex="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f4d256cf37ac4d7048b5c26f2abb3ab5dab44d14\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
-        <dex dex="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_95fd0797c006bee63a348002622af802372a75eb\classes.dex" />
+        <dex dex="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_2c9ea389432adaa5a80adbd14fadadb2a0663593\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -381,11 +219,20 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_176786193300ca3ee082900ed9bd55db704b73ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="6daeab9f049db08d059c6eccc83aba6a31c8261d">
+        sha1="3ceb97827a3ab49935a4c7f19923908ae78b7422">
         <dex dex="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0329e3cd95768831837351d90b9ed8ec2685be37\classes.dex" />
     </item>
     <item
@@ -396,15 +243,6 @@
         revision="25.0.1"
         sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
         <dex dex="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_8716a9c7c062f5074ecc69c23086bfe491690a4e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="546d73c0e9d6a0e2a747016f3846e76f06a7ce79">
-        <dex dex="D:\Android\AndroidStudioProjects\Silver_v3\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e491b8952f41fc63085ecdc9e6b449cced8aa824\classes.dex" />
     </item>
 
 </items>

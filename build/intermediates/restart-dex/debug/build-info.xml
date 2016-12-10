@@ -5,32 +5,40 @@
     density="xxxhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="680197839274901"
+    timestamp="687370097996659"
     token="-4243673636002646778"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="169" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="32" />
     <task
         name="verifier"
-        duration="0" />
+        duration="5" />
+
+    <artifact
+        location="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+        type="DEX" />
 
     <build
-        timestamp="680074261455235"
+        timestamp="684336114161196"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\outputs\apk\2009_Silver_App-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="680197839274901"
-        verifier="COLD_SWAP_REQUESTED" />
+        timestamp="687370097996659"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\Grant\Documents\GitHub\2009_Silver_App\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+            type="DEX" />
+    </build>
 
 </instant-run>

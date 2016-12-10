@@ -105,16 +105,24 @@ public class SplashActivity extends AppCompatActivity {
                                 Log.e("some tag", "Event error: ", e);
                             }
                         });
-                //if (!validDevice){
+
+                    Object value;
+                    try{
+                        value = mDevice.getVariable("testvar");
+                    } catch (ParticleDevice.VariableDoesNotExistException e) {
+                        value = 0;
+                    }
+                        //if (!validDevice){
                 //    throw ParticleCloudException();
                 //}
 
-                return -1;
+                return value;
             }
 
             @Override
             public void onSuccess(Object value) {
-                Intent intent = ValueActivity.buildIntent(SplashActivity.this, "Waiting on data", mDevice.getID());
+
+                Intent intent = ValueActivity.buildIntent(SplashActivity.this, value.toString(), mDevice.getID());
                 startActivity(intent);
             }
 
